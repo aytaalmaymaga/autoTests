@@ -9,7 +9,7 @@
     "typescript": "^5.7.2"
   },
   "scripts": {
-    "test": "mocha test.ts --no-timeouts",
+    "learnJs": "mocha learnJs.js --no-timeouts",
     "logIn": "mocha logIn.js --no-timeouts"
   }
 }
