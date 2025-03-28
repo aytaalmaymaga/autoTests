@@ -48,6 +48,6 @@ describe("sign in Farpost.ru by password", () => {
             .getText();
 
         assert.strictEqual(profileName, 'testasd');
-        let asd;
+        let zxc;
     });
 })
